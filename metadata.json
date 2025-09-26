@@ -1,0 +1,7 @@
+{
+  "name": "leitor",
+  "description": "Um aplicativo para digitalizar, extrair informações de cartões de visita usando IA e organizar seus contatos. Tire uma foto de um cartão de visita e a IA extrairá o nome, empresa, telefone, e-mail e muito mais. Quero inserir a função de selecionar uma foto do dispositivo para fazer a leitura",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
